@@ -1,6 +1,6 @@
 # 🧩 Ejercicios Guiados 3
 
-Este repositorio recopila las actividades prácticas desarrolladas durante la **Unidad 2**, enfocadas en la implementación de **listas enlazadas**, **pilas** y **estructuras de datos** en **Java** y **VisuAlgo**.
+Este repositorio recopila las actividades prácticas desarrolladas durante la **Unidad 3**
 
 ## 🧮 Actividad - Ventana Básica con Java Swing
 
