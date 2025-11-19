@@ -6,7 +6,7 @@ Este repositorio recopila las actividades prácticas desarrolladas durante la **
 
 | Tipo         | Enlace                                                                                                            |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
-| 📄 Documento | [Ventana Básica](https://github.com/MiguelPr-o/U3EjerciciosGuiadosSwing/blob/main/Ventana%20B%C3%A1sica.pdf) |
+| 📄 Documento | [Ver pdf](https://github.com/MiguelPr-o/U3EjerciciosGuiadosSwing/blob/main/Ventana%20B%C3%A1sica.pdf) |
 
 ---
 
@@ -14,7 +14,7 @@ Este repositorio recopila las actividades prácticas desarrolladas durante la **
 
 | Tipo         | Enlace                                                                                                            |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
-| 📄 Documento | [Concepto de arboles](https://github.com/MiguelPr-o/U3EjerciciosGuiadosSwing/blob/main/Concepto%20de%20arboles.pdf) |
+| 📄 Documento | [Ver pdf](https://github.com/MiguelPr-o/U3EjerciciosGuiadosSwing/blob/main/Concepto%20de%20arboles.pdf) |
 
 ---
 
