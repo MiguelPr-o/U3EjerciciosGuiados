@@ -3,7 +3,7 @@
 Este repositorio recopila las actividades prácticas desarrolladas durante la **Unidad 3**
 
 ## 🧮 Actividad - Ventana Básica con Java Swing
-### Actividades prácticas desarrolladas durante la Unidad 3 de la materia de Estructuras de Datos.
+Actividades prácticas desarrolladas durante la Unidad 3 de la materia de Estructuras de Datos.
 
 | Tipo         | Enlace                                                                                                            |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@ Este repositorio recopila las actividades prácticas desarrolladas durante la **
 ---
 
 ## 🧮 Actividad - Concepto de arboles
-### Descripción teórica del concepto de árboles como estructura de datos fundamental.
+Descripción teórica del concepto de árboles como estructura de datos fundamental.
 
 | Tipo         | Enlace                                                                                                            |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
