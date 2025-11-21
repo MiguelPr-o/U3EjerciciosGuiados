@@ -1,6 +1,6 @@
 # 🧩 Ejercicios Guiados 3
 
-Este repositorio recopila las actividades prácticas desarrolladas durante la **Unidad 3**
+Este repositorio recopila las actividades guiadas desarrolladas durante la **Unidad 3**
 
 ## 🧮 Actividad - Ventana Básica con Java Swing
 Actividades prácticas desarrolladas durante la Unidad 3 de la materia de Estructuras de Datos.
