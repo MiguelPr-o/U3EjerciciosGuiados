@@ -28,5 +28,13 @@ Descripción teórica del concepto de árboles como estructura de datos fundamen
 
 ---
 
+## 🧮 Actividad - Mapa mental
+
+| Tipo         | Enlace                                                                                                            |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- |
+| 📄 Documento | [Ver pdf](https://github.com/MiguelPr-o/U3EjerciciosGuiados/blob/main/Mapa%20mental%20-%20Estructura%20de%20datos.pdf) |
+
+---
+
 👨‍💻 **Autor:** Miguel Angel Hernández Godínez
 🎓 **Materia:** Estructuras de Datos
