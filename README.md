@@ -20,7 +20,7 @@ Descripción teórica del concepto de árboles como estructura de datos fundamen
 
 ---
 
-## 🧮 Actividad - Concepto de conjuntos
+## 🧮 Actividad - Concepto de conjuntos (nearpod)
 
 | Tipo         | Enlace                                                                                                            |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -33,6 +33,14 @@ Descripción teórica del concepto de árboles como estructura de datos fundamen
 | Tipo         | Enlace                                                                                                            |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
 | 📄 Documento | [Ver pdf](https://github.com/MiguelPr-o/U3EjerciciosGuiados/blob/main/Mapa%20mental%20-%20Estructura%20de%20datos.pdf) |
+
+---
+
+## 🧮 Actividad - Concepto de diccionarios (nearpod)
+
+| Tipo         | Enlace                                                                                                            |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- |
+| 📄 Documento | [Ver pdf](https://github.com/MiguelPr-o/U3EjerciciosGuiados/blob/main/Conjuntos%20-%20Nearpod.pdf) |
 
 ---
 
